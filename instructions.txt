@@ -1,13 +1,17 @@
 git init
-git add "..."
+git add ...
 git add . (all)
 git commit -m "first commit" (-m = message)
+
+git commit -am "commit" => skip the staging area but commit everything
 
 git status
 git diff
 git diff --staged
 git log
 
-git rm "..." remove from repository and folder
+git rm ... remove from repository and folder
 
-git mv ".../..." ".../..."
+git mv .../... .../...
+
+git checkout -- ...
