@@ -10,8 +10,4 @@ git log
 
 git rm "..." remove from repository and folder
 
-rename a file :
-rename it
-add the nex one
-remove the former one
-commit
+git mv ".../..." ".../..."
