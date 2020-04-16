@@ -1,2 +1,9 @@
-oui salut c moi
-ah no  c moi
+git init
+git add "...."
+git add . (all)
+git commit -m "first commit" (-m = message)
+
+git status
+git diff
+git diff --staged
+git log
