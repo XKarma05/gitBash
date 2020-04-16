@@ -8,10 +8,13 @@ git commit -am "commit" => skip the staging area but commit everything
 git status
 git diff
 git diff --staged
-git log
+git log => list of commits
 
 git rm ... remove from repository and folder
 
 git mv .../... .../...
 
-git checkout -- ...
+git checkout -- ... => repository to working copy when you have not commited
+git checkout commitNumber -- ... 
+
+git reset HEAD ... => remove file from staging area
