@@ -1,0 +1,35 @@
+ls : voir ce qu'il y a ou on est
+cd : change directory
+
+ls -l : voir les infos de ce qu'il y a dans le dir
+
+mkdir : make directory (créer un dossier)
+rmdir : remove directory
+touch : créer fichier 
+rm : remove fichier
+cp : copier un fichier (NomDuFichier directory/NouveauNom)
+
+cd .. : revenir au directory précédent
+cd : revenir à la base
+
+chercher un mot dans un file : 
+se mettre dans le directory : grep *mot* *file*
+
+comparer 2 files : 
+se mettre dans le dir : diff *file* *file*
+
+changer password : passwd
+
+echo = print
+NAME=Hipp
+echo $NAME
+echo My name is $NAME
+info echo
+sortir des infos : ctrl + z
+
+up arrow: rechercher une fonction précédement utilisée
+
+souvegarder les résultats d'une fonction dans un file : ls > *file*
+pwd >> *file* pour pas overwrite
+
+épisode8
